@@ -1,3 +1,3 @@
 #!/bin/bash
-DATE = $(date)
+DATE=$(date)
 echo "hellow this script is executed at the timestamp: $DATE"
